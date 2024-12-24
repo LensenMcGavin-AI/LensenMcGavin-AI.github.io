@@ -4,9 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 
-<form action="https://formsubmit.co/hello@lm-ai.nz" method="POST">
+<form action="https://formsubmit.co/5efa64a5290000d5db225d060bb2d0f9" method="POST">
   <input type="hidden" name="_next" value="https://lm-ai.nz/thank-you">
-  <input type="hidden" name="_captcha" value="true">
   <label for="name">Name:</label>
   <input type="text" id="name" name="name" required>
   
