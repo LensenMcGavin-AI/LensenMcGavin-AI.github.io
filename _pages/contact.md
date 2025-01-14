@@ -4,6 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 
+For all inquiries including media, please use the following form or contact us at <hello@lm-ai.nz>
+
 <form action="https://formsubmit.co/5efa64a5290000d5db225d060bb2d0f9" method="POST">
   <input type="hidden" name="_next" value="https://lm-ai.nz/thank-you">
   <input type="hidden" name="_captcha" value="false">
