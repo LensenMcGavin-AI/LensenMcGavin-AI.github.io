@@ -6,7 +6,8 @@ permalink: /media/
 
 See below for Andrew and Chris’ most recent appearances in the media:
 
-Full-length op-ed/articles:
+## Full-length op-ed/articles
+
 - "Andrew Lensen: Judith Collins has all but ruled out AI regulation. That scares me". In The NZ Herald, 3<sup>rd</sup>, August 2024. [link](https://www.nzherald.co.nz/business/andrew-lensen-judith-collins-has-all-but-ruled-out-ai-regulation-that-scares-me/QFQETYMLI5AXXHIP7O3QVWPX5M/) [non-paywall](https://andrewlensen.com/ai-cabinet-paper/)
 - "Let's be more pragmatic about AI". In NBR, 18<sup>th</sup> May 2024. [link](https://www.nbr.co.nz/guest-analysis/lets-be-more-pragmatic-about-ai/)
 - "AI: Behind the Buzzword". In Safeguard Magazine, March/April 2024, Issue 198. [link](https://safeguard.co.nz/magazine/ai-behind-the-buzzword/)
@@ -14,11 +15,13 @@ Full-length op-ed/articles:
 - "NZ's political leaders are ignoring the mounting threats from AI — and that’s putting everyone at risk" In The Conversation, 5<sup>th</sup> October 2023. [link](https://theconversation.com/nzs-political-leaders-are-ignoring-the-mounting-threats-from-ai-and-thats-putting-everyone-at-risk-214714)
 - "We built an algorithm that predicts the length of court sentences — could AI play a role in the justice system?". In The Conversation, 30<sup>th</sup> November 2022. [link](https://theconversation.com/we-built-an-algorithm-that-predicts-the-length-of-court-sentences-could-ai-play-a-role-in-the-justice-system-193300)
 
-Interviewed for (TV):
+## Interviewed for (TV):
+
 - "Fresh drama in Silicon Valley over new AI firm". Newshub, 20<sup>th</sup> June 2024. [link](https://www.youtube.com/watch?v=CGJFXGCMnyI)
 - "AI video generation is advancing rapidly, unlocking creativity but also raising urgent concerns". Newshub, 17<sup>th</sup> June 2024. [link](https://www.youtube.com/watch?v=bCktJp8gY_g)
 
-Interviewed for (print/online):
+## Interviewed for (print/online):
+
 - "Apple Intelligence launches in NZ today - why experts say it has a privacy advantage over rivals". In The NZ Herald, 12<sup>th</sup> December 2024. [link](https://www.nzherald.co.nz/business/apple-intelligence-launches-in-nz-today-why-experts-say-it-has-a-privacy-advantage-over-rivals/4DKNQ42HR5CQZEZTHNU3PR553A/)
 - "Artificial intelligence degrees in demand at New Zealand Universities". In Newstalk ZB, 26<sup>th</sup> November 2024. [link](https://www.newstalkzb.co.nz/news/national/artificial-intelligence-degrees-in-demand-at-new-zealand-universities/)
 - "Sick of AI hype? I have some bad news". In Vox, 18<sup>th</sup> October 2024. [link](https://www.vox.com/future-perfect/378347/nobel-prize-physics-ai-hinton-hopfield)
@@ -37,7 +40,7 @@ Interviewed for (print/online):
 - "ScamGPT: Hackers and criminals are harnessing the power of AI". In The New Daily (AU), 20<sup>th</sup> July 2023. [link](https://thenewdaily.com.au/life/tech/2023/07/20/scams-criminal-ai/)
 - "Purpose-built facial recognition software aims to identify individual kākā". In The Dominion Post, 5<sup>th</sup> November 2021. [link](https://www.stuff.co.nz/environment/126898710/purposebuilt-facial-recognition-software-aims-to-identify-individual-kk)
 
-Interviewed for (live radio/podcast):
+## Interviewed for (live radio/podcast):
 
 - "Interest in AI degree grows amid rapid tech developments". On The Mike Hosking Breakfast, Newstalk ZB, 26<sup>th</sup> November 2024. [link](https://www.newstalkzb.co.nz/on-air/mike-hosking-breakfast/audio/andrew-lensen-victoria-university-senior-lecturer-on-the-growing-interest-in-ai-university-courses/)
 - "What is Artificial Intelligence?". On the Smooth Brain Society (Podcast), October 2023. [link](https://open.spotify.com/episode/1oOYUNfJvsII5JzjfjEMfz)
@@ -46,7 +49,8 @@ Interviewed for (live radio/podcast):
 - "AI and the Justice System". On RNZ The Panel, 5<sup>th</sup> December 2022. [link](https://www.rnz.co.nz/national/programmes/thepanel/audio/2018869935/the-panel-with-mai-chen-and-guy-williams-part-2)
 - "AI and the Justice SYstem". On ABC Canberra (AU), 5<sup>th</sup> December 2022.
 
-Expert opinion/comment (written and recorded):
+##Expert opinion/comment (written and recorded):
+
 - Fact Check on "Altered Trump videos used to push fake Golden Eagles investment scheme". AAP FactCheck, 30<sup>th</sup> December 2024. [link](https://www.aap.com.au/factcheck/altered-trump-videos-used-to-push-fake-golden-eagles-investment-scheme/)
 - Fact Check on "Deepfake or cheapfake? Video making false allegations against Walz goes viral". AAP FactCheck, 29<sup>th</sup> October 2024. [link](https://www.aap.com.au/factcheck/deepfake-or-cheapfake-video-making-false-allegations-against-walz-goes-viral/)
 - Fact Check on "Fake Kamala Harris ad promotes insurance, not abortion rights". AAP FactCheck, 8<sup>th</sup> October 2024. [link](https://www.aap.com.au/factcheck/fake-kamala-harris-ad-promotes-insurance-not-abortion-rights/)
