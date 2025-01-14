@@ -337,6 +337,10 @@ p > img {
 }
 
 .masthead {
+  display: flex;
+  align-items: center;        /* vertically center items */
+  justify-content: space-between; /* spread the items apart horizontally */
+  /* Remove any floats or clearfix-related properties if using flexbox. */
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
 
@@ -402,13 +406,13 @@ p > img {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  // margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
 
   @include mobile {
     float: none;
-    margin-top: 9px;
+    // margin-top: 9px;
     display: block;
     font-size: 16px;
   }
