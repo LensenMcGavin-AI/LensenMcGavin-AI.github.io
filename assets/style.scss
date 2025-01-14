@@ -345,7 +345,10 @@ p > img {
   border-bottom: 1px solid $lightGray;
 
   @include mobile {
+    // Switch to vertical stacking on mobile
+    flex-direction: column;
     text-align: center;
+    align-items: center; // so the elements remain centered horizontally
   }
 }
 
