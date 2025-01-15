@@ -7,8 +7,7 @@ permalink: /about/
 Below you can learn more about our team members. Click **Read more** to see their full bios.
 
 <div class="person">
-  <img src="/images/andrew-lensen.jpg" alt="Dr Andrew Lensen" class="person-photo" />
-
+  <img src="/images/404.jpg" alt="Dr Andrew Lensen" class="person-photo" />
    <div class="person-info">
     <h2>Dr Andrew Lensen</h2>
     <p class="bio">
