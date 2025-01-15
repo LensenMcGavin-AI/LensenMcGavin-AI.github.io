@@ -52,6 +52,33 @@
       </div>
     </div>
 
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        const toggleLinks = document.querySelectorAll('.toggle-bio');
+    
+        toggleLinks.forEach(link => {
+          link.addEventListener('click', function(e) {
+            e.preventDefault();
+            
+            // 'bio' container is the parent <p>
+            const bioParagraph = link.closest('.bio');
+            
+            // Find the .dots and .more spans
+            const dots = bioParagraph.querySelector('.dots');
+            const more = bioParagraph.querySelector('.more');
+            
+            // Toggle hidden class
+            dots.classList.toggle('hidden');
+            more.classList.toggle('hidden');
+            
+            // Update the link text
+            link.textContent = more.classList.contains('hidden') ? 'Read more' : 'Read less';
+          });
+        });
+      });
+    </script>
+    
+
     {% include analytics.html %}
   </body>
 </html>
