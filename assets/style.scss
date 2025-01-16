@@ -26,6 +26,11 @@
   margin-bottom: 2rem;
 }
 
+.bio{
+  /* Remove margin at top of bio*/
+  margin: 0px
+}
+
 /* Photo styling */
 .person-photo {
   width: 120px;    // or whatever size you prefer
