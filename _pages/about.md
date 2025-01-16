@@ -10,6 +10,7 @@ Below you can learn more about us. Click **Read more** to see our full bios.
 
 <div class="person-grid">
   <div class="person-photo-container">
+  {% picture AndrewLensen.jpg %}
   <img src="/images/AndrewLensen.jpg" alt="Dr Andrew Lensen" class="person-photo" />
   </div>
    <div class="person-info">
