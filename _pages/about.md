@@ -10,7 +10,7 @@ Below you can learn more about us. Click **Read more** to see our full bios.
 
 <div class="person-grid">
   <div class="person-photo-container">
-  <img src="/images/AndrewLensen-120.jpg" alt="Dr Andrew Lensen" class="person-photo" />
+  <img src="/images/AndrewLensen-240.jpg" alt="Dr Andrew Lensen" class="person-photo" />
   </div>
    <div class="person-info">
     <p class="bio">
@@ -27,7 +27,7 @@ Below you can learn more about us. Click **Read more** to see our full bios.
 
 <div class="person-grid">
   <div class="person-photo-container">
-  <img src="/images/ChrisMcGavin-120.jpg" alt="Chris McGavin" class="person-photo" />
+  <img src="/images/ChrisMcGavin-240.jpg" alt="Chris McGavin" class="person-photo" />
   </div>
    <div class="person-info">
     <p class="bio">
