@@ -1,5 +1,3 @@
 source "https://rubygems.org"
 gem 'github-pages'
 gem "webrick", "~> 1.7"
-
-gem "jekyll-picture-tag", group: :jekyll_plugins

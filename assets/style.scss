@@ -35,7 +35,8 @@
 .person-photo {
   width: 120px;    // or whatever size you prefer
   height: auto;
-  border-radius: 4px;  // optional
+  border-radius: 50%;  // optional
+  object-fit: cover;    // crops the image to fill the circle
   display: block;  
 }
 
