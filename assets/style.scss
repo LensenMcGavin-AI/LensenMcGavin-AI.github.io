@@ -17,51 +17,53 @@
 
 // ADDED ANDREW 24/12/24
 
-/* Container for each person: photo + text side by side */
-.person {
-  display: flex;
-  align-items: flex-start; /* Align images and text at the top */
+.person-grid {
+  display: grid;
+  /* First column is fixed at 120px, second column fills the remaining space */
+  grid-template-columns: 120px 1fr; 
+  align-items: start;   // top-align image and text
+  column-gap: 2rem;
   margin-bottom: 2rem;
 }
 
-/* Person's photo */
+/* Photo styling */
 .person-photo {
-  width: 120px;       /* or 150px, adjust as needed */
+  width: 120px;    // or whatever size you prefer
   height: auto;
-  border-radius: 4px; /* optional for rounded corners */
-  margin-right: 1rem; /* space between image and text */
+  border-radius: 4px;  // optional
+  display: block;  
 }
 
-/* Text container */
-.person-info {
-  flex: 1; /* take up remaining width */
-}
 
 /* Hide elements with this class */
 .hidden {
   display: none;
 }
 
-/* 'Read more' link style */
 .toggle-bio {
-  color: blue;
+  color: $darkGray;
+  font-weight: 300;
+  letter-spacing: 1px;
   text-decoration: underline;
   cursor: pointer;
-  margin-left: 0.5em; /* small gap before the link */
-}
+  margin-left: 0.5em;
 
+  @include mobile {
+    color: $blue;  // if your site uses a different color on mobile
+  }
+}
 /* Responsive tweak for mobile screens */
+/* Responsive: stack columns on smaller screens */
 @media (max-width: 600px) {
-  .person {
-    flex-direction: column;
-    align-items: center;
+  .person-grid {
+    grid-template-columns: 1fr;  // single column
+    row-gap: 1.5rem;             // space between image and text
   }
+
   .person-photo {
-    margin-right: 0;
-    margin-bottom: 1rem;
-  }
-  .person-info {
-    text-align: center;
+    width: 100%;   // optional: let the image shrink or fill container
+    max-width: 120px; // cap the width if you like
+    margin: 0 auto;
   }
 }
 
