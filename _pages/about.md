@@ -6,17 +6,17 @@ permalink: /about/
 
 Below you can learn more about our team members. Click **Read more** to see their full bios.
 
+# Dr Andrew Lensen
+
 <div class="person-grid">
   <div class="person-photo-container">
   <img src="/images/404.jpg" alt="Dr Andrew Lensen" class="person-photo" />
   </div>
    <div class="person-info">
-    <h2>Dr Andrew Lensen</h2>
     <p class="bio">
-      Andrew is a widely respected and experienced AI researcher. He has a PhD in computer science from Te Herenga Waka—Victoria University of Wellington, where he is a Senior Lecturer and the Programme Director of Artificial Intelligence
-      <span class="dots">...</span>
+      Andrew is a widely respected and experienced AI researcher. He has a PhD in computer science from Te Herenga Waka—Victoria University of Wellington, where he is a Senior Lecturer and the Programme Director of Artificial Intelligence.<span class="dots">..</span>
       <span class="more hidden">
-        . Andrew’s research interests include, but are not limited to: explainable AI, genetic programming, unsupervised learning (nonlinear dimensionality reduction), and real-world/interdisciplinary AI in New Zealand. As well as the social and ethical implications of AI, and aspects of deep learning, such as embedding/manifold learning methods. Andrew has an extensive research background, which includes highlights such as examining the application of explainable AI for assault sentence prediction, using computer vision to identify individual kākā to aid in conservation efforts, and exploring genetic programming for manifold learning. In addition to this Andrew has been a longstanding and trusted partner to many leading media outlets, providing well-rounded and incisive commentary when AI makes the news. Andrew has assisted a number of private and public sector organisations as a key advisor on important AI projects, and as a trusted voice. Andrew is deeply driven by a desire to ensure that the implementation of AI in Aotearoa is fair, ethical and equitable and ensures the best possible outcomes for all parties. 
+        Andrew’s research interests include, but are not limited to: explainable AI, genetic programming, unsupervised learning (nonlinear dimensionality reduction), and real-world/interdisciplinary AI in New Zealand. As well as the social and ethical implications of AI, and aspects of deep learning, such as embedding/manifold learning methods. Andrew has an extensive research background, which includes highlights such as examining the application of explainable AI for assault sentence prediction, using computer vision to identify individual kākā to aid in conservation efforts, and exploring genetic programming for manifold learning. In addition to this Andrew has been a longstanding and trusted partner to many leading media outlets, providing well-rounded and incisive commentary when AI makes the news. Andrew has assisted a number of private and public sector organisations as a key advisor on important AI projects, and as a trusted voice. Andrew is deeply driven by a desire to ensure that the implementation of AI in Aotearoa is fair, ethical and equitable and ensures the best possible outcomes for all parties. 
       </span>
       <a href="#" class="toggle-bio">Read more</a>
     </p>
