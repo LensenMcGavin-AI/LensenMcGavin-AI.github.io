@@ -22,6 +22,7 @@ See below for Andrew and Chris’ most recent appearances in the media:
 
 ## Interviewed for (print/online):
 
+- "'Believe Nothing': The impossible challenge of a post-facts world". In the Sunday Star-Times, The Post, The Press, 26<sup>th</sup> January 2025. [link](https://www.thepost.co.nz/nz-news/360553528/believe-nothing-impossible-challenge-post-facts-world)
 - "Apple Intelligence launches in NZ today - why experts say it has a privacy advantage over rivals". In The NZ Herald, 12<sup>th</sup> December 2024. [link](https://www.nzherald.co.nz/business/apple-intelligence-launches-in-nz-today-why-experts-say-it-has-a-privacy-advantage-over-rivals/4DKNQ42HR5CQZEZTHNU3PR553A/)
 - "Artificial intelligence degrees in demand at New Zealand Universities". In Newstalk ZB, 26<sup>th</sup> November 2024. [link](https://www.newstalkzb.co.nz/news/national/artificial-intelligence-degrees-in-demand-at-new-zealand-universities/)
 - "Sick of AI hype? I have some bad news". In Vox, 18<sup>th</sup> October 2024. [link](https://www.vox.com/future-perfect/378347/nobel-prize-physics-ai-hinton-hopfield)
