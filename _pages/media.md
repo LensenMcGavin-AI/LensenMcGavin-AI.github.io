@@ -8,7 +8,7 @@ See below for Andrew and Chris’ most recent appearances in the media:
 
 ## Full-length op-ed/articles
 
-- "Not clear the AI race has begun". In NBR, 8<sup>th</sup> February 2025. [link](https://www.nbr.co.nz/guest-analysis/not-clear-the-ai-race-has-begun/)
+- "Not clear the AI race has begun". In NBR, 2<sup>nd</sup> February 2025. [link](https://www.nbr.co.nz/guest-analysis/not-clear-the-ai-race-has-begun/)
 - "Andrew Lensen: Judith Collins has all but ruled out AI regulation. That scares me". In The NZ Herald, 3<sup>rd</sup>, August 2024. [link](https://www.nzherald.co.nz/business/andrew-lensen-judith-collins-has-all-but-ruled-out-ai-regulation-that-scares-me/QFQETYMLI5AXXHIP7O3QVWPX5M/) [non-paywall](https://andrewlensen.com/ai-cabinet-paper/)
 - "Let's be more pragmatic about AI". In NBR, 18<sup>th</sup> May 2024. [link](https://www.nbr.co.nz/guest-analysis/lets-be-more-pragmatic-about-ai/)
 - "AI: Behind the Buzzword". In Safeguard Magazine, March/April 2024, Issue 198. [link](https://safeguard.co.nz/magazine/ai-behind-the-buzzword/)
