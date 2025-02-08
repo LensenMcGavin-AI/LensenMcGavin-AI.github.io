@@ -8,6 +8,7 @@ See below for Andrew and Chris’ most recent appearances in the media:
 
 ## Full-length op-ed/articles
 
+- "Not clear the AI race has begun". In NBR, 8<sup>th</sup> February 2025. [link](https://www.nbr.co.nz/guest-analysis/not-clear-the-ai-race-has-begun/)
 - "Andrew Lensen: Judith Collins has all but ruled out AI regulation. That scares me". In The NZ Herald, 3<sup>rd</sup>, August 2024. [link](https://www.nzherald.co.nz/business/andrew-lensen-judith-collins-has-all-but-ruled-out-ai-regulation-that-scares-me/QFQETYMLI5AXXHIP7O3QVWPX5M/) [non-paywall](https://andrewlensen.com/ai-cabinet-paper/)
 - "Let's be more pragmatic about AI". In NBR, 18<sup>th</sup> May 2024. [link](https://www.nbr.co.nz/guest-analysis/lets-be-more-pragmatic-about-ai/)
 - "AI: Behind the Buzzword". In Safeguard Magazine, March/April 2024, Issue 198. [link](https://safeguard.co.nz/magazine/ai-behind-the-buzzword/)
@@ -22,6 +23,9 @@ See below for Andrew and Chris’ most recent appearances in the media:
 
 ## Interviewed for (print/online):
 
+- "Is Tiktok a national security risk? What you need to know". In RNZ, 8<sup>th</sup> February 2025. [link](https://www.rnz.co.nz/news/what-you-need-to-know/541259/is-tiktok-a-national-security-risk-what-you-need-to-know)
+- "NZ MPs get behind-the-scenes DeepSeek warning". In The NZ Herald, 7<sup>th</sup> February 2025. [link](https://www.nzherald.co.nz/business/deepseek-banned-by-governments-in-multiple-countries-but-not-nz/B77PSHHD7BEQ5E27G4WXSV3OYQ/)
+- "DeepSeek breakthrough raises AI energy questions". Agence France-Press (AFP) news agency, syndicated worldwide, 28<sup>th</sup> January 2025. [example link](https://www.france24.com/en/live-news/20250128-deepseek-breakthrough-raises-ai-energy-questions)
 - "'Believe Nothing': The impossible challenge of a post-facts world". In the Sunday Star-Times, The Post, The Press, 26<sup>th</sup> January 2025. [link](https://www.thepost.co.nz/nz-news/360553528/believe-nothing-impossible-challenge-post-facts-world)
 - "Apple Intelligence launches in NZ today - why experts say it has a privacy advantage over rivals". In The NZ Herald, 12<sup>th</sup> December 2024. [link](https://www.nzherald.co.nz/business/apple-intelligence-launches-in-nz-today-why-experts-say-it-has-a-privacy-advantage-over-rivals/4DKNQ42HR5CQZEZTHNU3PR553A/)
 - "Artificial intelligence degrees in demand at New Zealand Universities". In Newstalk ZB, 26<sup>th</sup> November 2024. [link](https://www.newstalkzb.co.nz/news/national/artificial-intelligence-degrees-in-demand-at-new-zealand-universities/)
