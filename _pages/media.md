@@ -73,7 +73,7 @@ See below for Andrew and Chris’ most recent appearances in the media:
 1. "AI and the Justice System". On RNZ The Panel, 5<sup>th</sup> December 2022. [link](https://www.rnz.co.nz/national/programmes/thepanel/audio/2018869935/the-panel-with-mai-chen-and-guy-williams-part-2)
 1. "AI and the Justice SYstem". On ABC Canberra (AU), 5<sup>th</sup> December 2022.
 
-##Expert opinion/comment (written and recorded):
+## Expert opinion/comment (written and recorded):
 
 1. NZ's New AI Strategy. Mediaworks Bulletins, 8<sup>th</sup> July 2025. 
 1. NZ's New AI Strategy. Newstalk ZB/NZME Bulletins, 8<sup>th</sup> July 2025.
