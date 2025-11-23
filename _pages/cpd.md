@@ -4,29 +4,35 @@ title: Lawyer CPD
 permalink: /cpd/
 ---
 
-We offer tailored Continuing Professional Development (CPD) for lawyers on artificial intelligence.
+AI is reshaping legal practice. Clients, partners, and vendors are pushing adoption, courts are starting to see AI-influenced submissions, and mistakes (hallucinated citations, reasoning errors) are already leading to reprimands. Rapid, confident upskilling is now a competitive necessity.
 
-## Our CPD Offerings
+## Modules (2h each)
 
-- Foundations of AI: Concepts, capabilities, limits
-- Applying AI in Legal Practice: Productivity, risk management, client service
-- Emerging AI Regulation: Global trends (EU AI Act, UK, US) and implications for NZ practice
-- Ethical & Responsible AI: Bias, transparency, accountability, professional duties
-- Data Governance & Privacy: Safe data handling when using AI tools
-- Litigation & Evidence: Using and challenging AI-derived evidence
-- Generative AI Workshop: Hands-on, policy-aligned usage and guardrails
-- Custom Sessions: Built around your firm’s practice areas and policies
+**AI Law 101: Fundamentals for Lawyers** – What AI is (predictive vs generative), core concepts, realistic capabilities/limits.
+**AI Law 102: Using Generative AI & Legal Interpretability** – Effective prompting, evaluating outputs, spotting failure modes.
+**AI Law 103: AI and the Court** – Evidentiary issues, admissibility, reliability, applying existing principles to new tech.
+**AI Law 104: AI and the Boardroom** – Governance, liability, contractual safeguards, risk registers, mitigation clauses.
+**AI Law 105: AI vs BS** – Cutting through hype; critical evaluation of claims, future landscape.
 
-## Format & Delivery
+## Structure & Pedagogy
+Pre-reading/video micro‑materials + interactive session (discussion, case studies, scenarios, reflective component for CPD). Participant numbers capped for quality.
 
-Sessions (1–2 hours) or half/full-day workshops. In-person (Wellington/Auckland) or virtual nationwide. Includes slides, practical examples, and Q&A. Can be accredited/submitted for CPD hours subject to NZLS guidelines.
+## Delivery & Pricing
+- In‑person single module: $250 per participant (max 30)
+- Online single module: $200 per participant (max 50)
+- Half‑day (2 modules, 4h) / Full‑day (4+ modules, 8h) by negotiation
+- Custom firm-specific programmes available
 
-## Why Us
+## Schedule
+Courses running in H1 2026. Tell us which modules you want and preferred location (Wellington, Auckland, or online).
 
-Deep expertise across AI research, law, regulation, ethics, and real-world deployment in Aotearoa. Independent, vendor-neutral guidance focused on risk mitigation and opportunity capture.
+## Our Team
+Senior AI researcher (explainable & ethical AI), AI regulation/policy specialist (LLM), and technology ethics & assurance advisor. See About page for full bios.
 
-## Next Steps
+## Why LensenMcGavin AI
+Independent, vendor‑neutral expertise spanning research, regulation, ethics, and real deployment in Aotearoa. Focused on safe, equitable, defensible use.
 
-Email <hello@lm-ai.nz> with your objectives, preferred dates, and audience size. We will respond with a proposed outline and quote.
+## Register / Enquire
+Email <hello@lm-ai.nz> or call +64 27 454 3578 with desired modules, delivery mode, dates, and audience size. We’ll respond with outline and quote.
 
-Need something not listed? Get in touch — we can scope it.
+Not sure what you need? Get in touch — we’ll scope a programme aligned with your strategic objectives.
