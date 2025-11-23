@@ -33,6 +33,6 @@ Senior AI researcher (explainable & ethical AI), AI regulation/policy specialist
 Independent, vendor‑neutral expertise spanning research, regulation, ethics, and real deployment in Aotearoa. Focused on safe, equitable, defensible use.
 
 ## Register / Enquire
-Email <hello@lm-ai.nz> or call +64 27 454 3578 with desired modules, delivery mode, dates, and audience size. We’ll respond with outline and quote.
+Email <hello@lm-ai.nz> or call +64 27 454 3578 with desired modules, delivery mode, dates, and audience size, or complete the short <a href="/cpd-interest">CPD Interest Form</a>. We’ll respond with outline and quote.
 
 Not sure what you need? Get in touch — we’ll scope a programme aligned with your strategic objectives.
