@@ -8,11 +8,11 @@ AI is reshaping legal practice. Clients, partners, and vendors are pushing adopt
 
 ## Modules (2h each)
 
-**AI Law 101: Fundamentals for Lawyers** – What AI is (predictive vs generative), core concepts, realistic capabilities/limits.
-**AI Law 102: Using Generative AI & Legal Interpretability** – Effective prompting, evaluating outputs, spotting failure modes.
-**AI Law 103: AI and the Court** – Evidentiary issues, admissibility, reliability, applying existing principles to new tech.
-**AI Law 104: AI and the Boardroom** – Governance, liability, contractual safeguards, risk registers, mitigation clauses.
-**AI Law 105: AI vs BS** – Cutting through hype; critical evaluation of claims, future landscape.
+**AI Law 101: Fundamentals for Lawyers** – What AI is (predictive vs generative), core concepts, realistic capabilities/limits.  
+**AI Law 102: Using Generative AI & Legal Interpretability** – Effective prompting, evaluating outputs, spotting failure modes.  
+**AI Law 103: AI and the Court** – Evidentiary issues, admissibility, reliability, applying existing principles to new tech.  
+**AI Law 104: AI and the Boardroom** – Governance, liability, contractual safeguards, risk registers, mitigation clauses.  
+**AI Law 105: AI vs BS** – Cutting through hype; critical evaluation of claims, future landscape.  
 
 ## Structure & Pedagogy
 Pre-reading/video micro‑materials + interactive session (discussion, case studies, scenarios, reflective component for CPD). Participant numbers capped for quality.
@@ -33,6 +33,6 @@ Senior AI researcher (explainable & ethical AI), AI regulation/policy specialist
 Independent, vendor‑neutral expertise spanning research, regulation, ethics, and real deployment in Aotearoa. Focused on safe, equitable, defensible use.
 
 ## Register / Enquire
-Email <hello@lm-ai.nz> or call +64 27 454 3578 with desired modules, delivery mode, dates, and audience size, or complete the short <a href="/cpd-interest">CPD Interest Form</a>. We’ll respond with outline and quote.
+Email <hello@lm-ai.nz> or call +64 27 454 3578 with desired modules, delivery mode, dates, and audience size, or complete the short <a href="/cpd-eoi">CPD EOI Form</a>. We’ll respond with an outline and quote.
 
 Not sure what you need? Get in touch — we’ll scope a programme aligned with your strategic objectives.
