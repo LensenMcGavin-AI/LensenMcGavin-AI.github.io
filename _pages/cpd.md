@@ -33,6 +33,6 @@ Dr Andrew Lensen (explainable & ethical AI), Chris McGavin LLM (AI regulation & 
 Independent, vendor‑neutral expertise spanning research, regulation, ethics, and real deployment in Aotearoa. Focused on safe, equitable, defensible use.
 
 ## Register / Enquire
-Email <hello@lm-ai.nz> or call +64 27 454 3578 with desired modules, delivery mode, dates, and audience size, or complete the short <a href="/cpd-eoi">CPD EOI Form</a>. We’ll respond with an outline and quote.
+Email <hello@lm-ai.nz> or or complete the short <a href="/cpd-eoi">CPD EOI Form</a>. We’ll respond with an outline and quote.
 
 Not sure what you need? Get in touch — we’ll scope a programme aligned with your strategic objectives.
