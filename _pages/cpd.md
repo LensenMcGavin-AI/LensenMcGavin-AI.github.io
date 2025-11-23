@@ -27,7 +27,7 @@ Pre-reading/video micro‑materials + interactive session (discussion, case stud
 Courses running in H1 2026. Tell us which modules you want and preferred location (Wellington, Auckland, or online).
 
 ## Our Team
-Senior AI researcher (explainable & ethical AI), AI regulation/policy specialist (LLM), and technology ethics & assurance advisor. See About page for full bios.
+Dr Andrew Lensen (explainable & ethical AI), Chris McGavin LLM (AI regulation & policy), and Dr Andrew Chen (technology ethics & assurance). See About page for full bios.
 
 ## Why LensenMcGavin AI
 Independent, vendor‑neutral expertise spanning research, regulation, ethics, and real deployment in Aotearoa. Focused on safe, equitable, defensible use.
