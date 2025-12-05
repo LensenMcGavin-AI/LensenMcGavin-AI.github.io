@@ -35,4 +35,6 @@ Independent, vendor‑neutral expertise spanning research, regulation, ethics, a
 ## Register / Enquire
 Email <hello@lm-ai.nz> or or complete the short <a href="/cpd-eoi">CPD EOI Form</a>. We’ll respond with an outline and quote.
 
+Or register directly for AI Law 101 via our <a href="/ai-law-101/register/">Stripe checkout page</a>.
+
 Not sure what you need? Get in touch — we’ll scope a programme aligned with your strategic objectives.
