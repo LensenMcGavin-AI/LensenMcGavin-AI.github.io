@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Register: AI Law 101
+title: "Register: AI Law 101"
 permalink: /ai-law-101/register/
 ---
 
