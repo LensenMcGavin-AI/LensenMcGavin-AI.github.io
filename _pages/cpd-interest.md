@@ -8,3 +8,6 @@ permalink: /cpd-eoi/
 <script>window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSexGnJCtZvAJ7TdJfmYYoSAaCWIiozbd3UBtKarfkJjOl4NRA/viewform?usp=publish-editor';</script>
 <p>If you are not redirected automatically, <a href="https://docs.google.com/forms/d/e/1FAIpQLSexGnJCtZvAJ7TdJfmYYoSAaCWIiozbd3UBtKarfkJjOl4NRA/viewform?usp=publish-editor">fill out the interest form here</a>.</p>
 <p><strong>New:</strong> Register now for <a href="/ai-law-101/register/">AI Law 101: Fundamentals for Lawyers</a> via Stripe (secure, hosted checkout).</p>
+
+<p><strong>New:</strong> Register now for <a href="/ai-law-101/register/">AI Law 101: Fundamentals for Lawyers</a> via Stripe (secure, hosted checkout).</p>
+
