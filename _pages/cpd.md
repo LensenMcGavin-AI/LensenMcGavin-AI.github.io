@@ -10,9 +10,9 @@ AI is reshaping legal practice. Clients, partners, and vendors are pushing adopt
 
 **[AI Law 101: Fundamentals for Lawyers](/ai-law-101/)** – What AI is (predictive vs generative), core concepts, realistic capabilities/limits.  
 **[AI Law 102: Using Generative AI & Legal Interpretability](/ai-law-102/)** – Effective prompting, evaluating outputs, spotting failure modes.  
-**AI Law 103: AI and the Court** – Evidentiary issues, admissibility, reliability, applying existing principles to new tech.  
-**AI Law 104: AI and the Boardroom** – Governance, liability, contractual safeguards, risk registers, mitigation clauses.  
-**AI Law 105: AI vs BS** – Cutting through hype; critical evaluation of claims, future landscape.  
+**[AI Law 103: AI and the Court](/ai-law-103/)** – Evidentiary issues, admissibility, reliability, applying existing principles to new tech.  
+**[AI Law 104: AI and the Boardroom](/ai-law-104/)** – Governance, liability, contractual safeguards, risk registers, mitigation clauses.  
+**[AI Law 105: AI vs BS](/ai-law-105/)** – Cutting through hype; critical evaluation of claims, future landscape.  
 
 ## Structure & Pedagogy
 Pre-reading/video micro‑materials + interactive session (discussion, case studies, scenarios, reflective component for CPD). Participant numbers capped for quality.
