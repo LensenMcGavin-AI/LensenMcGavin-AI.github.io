@@ -8,8 +8,8 @@ AI is reshaping legal practice. Clients, partners, and vendors are pushing adopt
 
 ## Modules (2h each)
 
-**AI Law 101: Fundamentals for Lawyers** – What AI is (predictive vs generative), core concepts, realistic capabilities/limits.  
-**AI Law 102: Using Generative AI & Legal Interpretability** – Effective prompting, evaluating outputs, spotting failure modes.  
+**[AI Law 101: Fundamentals for Lawyers](/ai-law-101/)** – What AI is (predictive vs generative), core concepts, realistic capabilities/limits.  
+**[AI Law 102: Using Generative AI & Legal Interpretability](/ai-law-102/)** – Effective prompting, evaluating outputs, spotting failure modes.  
 **AI Law 103: AI and the Court** – Evidentiary issues, admissibility, reliability, applying existing principles to new tech.  
 **AI Law 104: AI and the Boardroom** – Governance, liability, contractual safeguards, risk registers, mitigation clauses.  
 **AI Law 105: AI vs BS** – Cutting through hype; critical evaluation of claims, future landscape.  
@@ -33,8 +33,6 @@ Dr Andrew Lensen (explainable & ethical AI), Chris McGavin LLM (AI regulation & 
 Independent, vendor‑neutral expertise spanning research, regulation, ethics, and real deployment in Aotearoa. Focused on safe, equitable, defensible use.
 
 ## Register / Enquire
-Email <hello@lm-ai.nz> or or complete the short <a href="/cpd-eoi">CPD EOI Form</a>. We’ll respond with an outline and quote.
+Ready to book a scheduled module? Head to our **[CPD Registration Page](/cpd/register/)** to secure your spot via Stripe.
 
-Or register directly for AI Law 101 via our <a href="/ai-law-101/register/">Stripe checkout page</a>.
-
-Not sure what you need? Get in touch — we’ll scope a programme aligned with your strategic objectives.
+Interested in a private offering or a custom programme? Email <hello@lm-ai.nz> or complete the short <a href="/cpd-eoi">CPD EOI Form</a>. We’ll get back to you soon!
