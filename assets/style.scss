@@ -13,8 +13,6 @@
 /* BASE RULES */
 /**************/
 
-@import url('https://fonts.googleapis.com/css?family=Roboto');
-
 // ADDED ANDREW 24/12/24
 
 .person-grid {
@@ -38,6 +36,7 @@
   border-radius: 50%;  // optional
   object-fit: cover;    // crops the image to fill the circle
   display: block;  
+  aspect-ratio: 1 / 1;
 }
 
 
@@ -565,6 +564,19 @@ nav {
 
 .wrapper-main {
   padding-bottom: 134px;
+  
+  a {
+    text-decoration: underline;
+    text-decoration-color: rgba($lmai-green, 0.4);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
+    transition: all 0.2s ease-in-out;
+    
+    &:hover {
+      text-decoration-color: $lmai-light-brown;
+      color: $lmai-light-brown;
+    }
+  }
 }
 
 .wrapper-footer {
@@ -783,7 +795,7 @@ Modules - reusable parts of our design
 
 .text-link {
     color: $lmai-green;
-    text-decoration: none;
+    text-decoration: none !important;
     border-bottom: 1px dotted $lmai-light-brown;
 }
 

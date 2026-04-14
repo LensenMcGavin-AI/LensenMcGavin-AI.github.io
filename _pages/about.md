@@ -10,7 +10,7 @@ Below you can learn more about us. Click **Read more** to see our full bios.
 
 <div class="person-grid">
   <div class="person-photo-container">
-  <img src="/images/AndrewLensen.jpg" alt="Dr Andrew Lensen" class="person-photo" />
+  <img src="/images/AndrewLensen-240w.webp" srcset="/images/AndrewLensen-120w.webp 120w, /images/AndrewLensen-240w.webp 240w, /images/AndrewLensen-480w.webp 480w, /images/AndrewLensen-800w.webp 800w" sizes="(max-width: 600px) 120px, 240px" alt="Dr Andrew Lensen" class="person-photo" width="240" height="240" loading="eager" decoding="async" />
   </div>
    <div class="person-info">
     <p class="bio">
@@ -27,7 +27,7 @@ Below you can learn more about us. Click **Read more** to see our full bios.
 
 <div class="person-grid">
   <div class="person-photo-container">
-  <img src="/images/ChrisMcGavin-240.jpg" alt="Chris McGavin" class="person-photo" />
+  <img src="/images/ChrisMcGavin-240-240w.webp" srcset="/images/ChrisMcGavin-240-120w.webp 120w, /images/ChrisMcGavin-240-240w.webp 240w" sizes="(max-width: 600px) 120px, 240px" alt="Chris McGavin" class="person-photo" width="240" height="240" loading="eager" decoding="async" />
   </div>
    <div class="person-info">
     <p class="bio">
@@ -44,7 +44,7 @@ Below you can learn more about us. Click **Read more** to see our full bios.
 
 <div class="person-grid">
   <div class="person-photo-container">
-  <img src="/images/AndrewChen.jpg" alt="Dr Andrew Chen" class="person-photo" />
+  <img src="/images/AndrewChen-240w.webp" srcset="/images/AndrewChen-120w.webp 120w, /images/AndrewChen-240w.webp 240w, /images/AndrewChen-480w.webp 480w, /images/AndrewChen-666w.webp 666w" sizes="(max-width: 600px) 120px, 240px" alt="Dr Andrew Chen" class="person-photo" width="240" height="240" loading="eager" decoding="async" />
   </div>
    <div class="person-info">
     <p class="bio">

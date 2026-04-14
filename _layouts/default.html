@@ -11,6 +11,11 @@
 
     <meta name="theme-color" content="#000000">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/favicon-32x32.png">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+    
     {% include analytics_head.html %}
   </head>
 
@@ -20,7 +25,7 @@
       <div class="wrapper-masthead">
         <div class="container">
           <header class="masthead clearfix">
-            <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}" alt="{{ site.title }}" /></a>
+            <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}/images/lm-ai-logo-70w.webp" srcset="{{ site.baseurl }}/images/lm-ai-logo-70w.webp 70w, {{ site.baseurl }}/images/lm-ai-logo-140w.webp 140w, {{ site.baseurl }}/images/lm-ai-logo-280w.webp 280w" sizes="70px" alt="{{ site.title }}" width="70" height="70" decoding="async" /></a>
 
             <div class="site-info">
               <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
