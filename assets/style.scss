@@ -124,12 +124,12 @@ button[type="submit"].btn {
 }
 
 button[type="submit"].btn:hover {
-  background-color: $lmai-brown;
+  background-color: $lmai-light-brown;
 }
 
 .btn-lmai {
   display: inline-block;
-  background-color: #546045;
+  background-color: $lmai-green;
   color: #fff !important;
   padding: 0.75rem 1.5rem;
   border-radius: 4px;
@@ -144,7 +144,7 @@ button[type="submit"].btn:hover {
 }
 
 .btn-lmai:hover {
-  background-color: #a99979;
+  background-color: $lmai-light-brown;
   transform: translateY(-2px);
   box-shadow: 0 6px 8px rgba(0,0,0,0.15);
 }
@@ -591,7 +591,7 @@ footer {
 }
 
 body:after {
-    background: linear-gradient(to right, $lmai-green 0%, $lmai-brown 100%);
+    background: linear-gradient(to right, $lmai-green 0%, $lmai-light-brown 100%);
     width: 100%;
     height: 5px;
     top: 0;
@@ -784,7 +784,7 @@ Modules - reusable parts of our design
 .text-link {
     color: $lmai-green;
     text-decoration: none;
-    border-bottom: 1px dotted $lmai-brown;
+    border-bottom: 1px dotted $lmai-light-brown;
 }
 
 //carbon ads

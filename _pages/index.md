@@ -25,4 +25,4 @@ Beyond our consulting services, we are deeply committed to shaping the future of
 
 We frequently contribute to the public discourse on AI governance, recently arguing for [a new "Christchurch Call" for fairer, safer AI](https://theconversation.com/could-nzs-next-christchurch-call-be-a-push-for-fairer-safer-ai-279085) to build trust and economic opportunity. By partnering with LensenMcGavin AI, you are working with practitioners actively setting the standard for AI ethics and policy.
 
-If our services sound like they could be of benefit to your organisation please do not hesitate to get in touch either at <hello@lm-ai.nz> or by filling out the form in the contact tab. 
+If our services sound like they could be of benefit to your organisation, please do not hesitate to get in touch with us at <hello@lm-ai.nz>.
