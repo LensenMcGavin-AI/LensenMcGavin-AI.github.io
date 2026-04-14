@@ -6,7 +6,7 @@ permalink: /about/
 
 Below you can learn more about us. Click **Read more** to see our full bios.
 
-## Dr Andrew Lensen
+## Dr Andrew Lensen, Director
 
 <div class="person-grid">
   <div class="person-photo-container">
@@ -23,7 +23,7 @@ Below you can learn more about us. Click **Read more** to see our full bios.
   </div>
 </div>
 
-## Chris McGavin
+## Chris McGavin, Director
 
 <div class="person-grid">
   <div class="person-photo-container">
@@ -34,6 +34,23 @@ Below you can learn more about us. Click **Read more** to see our full bios.
       Chris is a digital and technology policy professional with extensive experience working on AI ethics, regulation and policy. He holds a Master’s degree in law, where his thesis studied AI regulation in the context of AI harms and global regulatory instruments.<span class="dots">..</span>
       <span class="more hidden">
          Chris has considerable expertise across a variety of global AI policy efforts, such as EU’s AI Act as well as Aotearoa’s own AI policy environment. He previously worked at the Brainbox Institute, Aotearoa’s leading digital policy think-tank where he contributed to and led a number of complex projects including an extensive examination of Aotearoa’s AI landscape for the Global Index on Responsible AI, development of Aotearoa’s first comprehensive AI policy tracker, and crucial work on the Transparency Initiatives Portal in conjunction with the Action Coalition on Meaningful Transparency and Christchurch Call. His commentary on AI has been published in leading publications such as the National Business Review. Chris is a visiting scholar at Victoria University of Wellington’s Computer Science and Engineering Department where his research is focused on AI regulation, policy and ethics. He is open to research partnerships across a number of disciplines. Chris is deeply enthusiastic about ensuring that Aotearoa learns from, instead of repeating, errors made in AI implementation in other jurisdictions. 
+      </span>
+      <a href="#" class="toggle-bio">Read more</a>
+    </p>
+  </div>
+</div>
+
+## Dr Andrew Chen, Specialist CPD Contributor
+
+<div class="person-grid">
+  <div class="person-photo-container">
+  <img src="/images/AndrewChen.jpg" alt="Dr Andrew Chen" class="person-photo" />
+  </div>
+   <div class="person-info">
+    <p class="bio">
+      Andrew works at the intersection of digital technology and ethics. He has a diverse background offering a rare blend of deep technical understanding and practical experience in high-stakes environments. He holds a PhD in Computer Systems Engineering from the University of Auckland, focusing on AI and Computer Vision.<span class="dots">..</span>
+      <span class="more hidden">
+        Andrew has extensive experience in public policy and assurance, having worked with MBIE, MFAT, DIA, MOH, and most recently served as Chief Advisor: Technology Assurance at New Zealand Police, where he wrote the organisation’s policy on acceptable use of generative AI. He also leads investment processes for deep tech start-ups and translates complex technology ethics issues for diverse audiences across print, radio, and television. For LensenMcGavin AI, Andrew contributes his profound expertise in technology ethics and AI assurance to our CPD training modules.
       </span>
       <a href="#" class="toggle-bio">Read more</a>
     </p>
