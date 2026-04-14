@@ -1,14 +1,28 @@
 {% if site.google_analytics_ga4 %}
-      <script defer src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_ga4 }}"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        
-        window.addEventListener('load', function() {
-            setTimeout(function() {
-                gtag('config', '{{ site.google_analytics_ga4 }}');
-            }, 100);
-        });
-      </script>
+<script>
+  (function() {
+    var gaInjected = false;
+    function injectGA() {
+      if (gaInjected) return;
+      gaInjected = true;
+      var script = document.createElement('script');
+      script.async = true;
+      script.src = "https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_ga4 }}";
+      document.head.appendChild(script);
+
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '{{ site.google_analytics_ga4 }}');
+    }
+    
+    // Inject on first interaction
+    ['scroll', 'mousemove', 'touchstart', 'click'].forEach(function(event) {
+      window.addEventListener(event, injectGA, { once: true, passive: true });
+    });
+
+    // Fallback: load after 3000ms even without interaction
+    setTimeout(injectGA, 3000);
+  })();
+</script>
 {% endif %}
