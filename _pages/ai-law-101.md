@@ -14,7 +14,8 @@ This module seeks to answer the question **“What is AI?”** in approachable t
 
 ## Upcoming Dates
 
-- **24th March 2026, 12-2pm** - Location: Online
+- **06/05/2026, 12-2pm** - Location: Online
+- **11/06/2026, 12-2pm** - Location: Online
 
 ## Pricing
 

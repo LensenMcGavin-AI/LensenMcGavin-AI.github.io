@@ -14,7 +14,8 @@ How can AI be applied in legal contexts, from the courts to the boardroom? Parti
 
 ## Upcoming Dates
 
-- **27th March 2026, 12-2pm** - Location: Online
+- **21/05/2026, 12-2pm** - Location: Online
+- **19/06/2026, 12-2pm** - Location: Online
 
 ## Pricing
 

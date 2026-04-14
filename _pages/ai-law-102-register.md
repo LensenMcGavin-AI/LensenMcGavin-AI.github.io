@@ -4,17 +4,12 @@ title: "Register: AI Law 102"
 permalink: /ai-law-102/register/
 ---
 
-<script async
-  src="https://js.stripe.com/v3/buy-button.js">
-</script>
-
 <h2>Register for AI Law 102: Using Generative AI and Legal Interpretability</h2>
-<p>Secure your spot using Stripe below.</p>
+<p>Secure your spot using our secure Stripe checkout by selecting a date below:</p>
 
-<stripe-buy-button
-  buy-button-id="buy_btn_1T5BdhQ0a5GOYhGBhdR8y94v"
-  publishable-key="pk_live_51SasloQ0a5GOYhGBrc0S7cLwdzcW8JmQsSYVtsy9ngGSwzkPhDGBu3RZpfyT6cEtMRwww4MBgf1f7MQ0tAvrkdvj00rA2zcjx5"
->
-</stripe-buy-button>
+<div style="display: flex; gap: 15px; flex-wrap: wrap; margin: 1.5rem 0;">
+  <a href="https://buy.stripe.com/00w3cx5LS0ok8AP6ohebu03" class="btn-lmai">21/05/2026 (Online)</a>
+  <a href="https://buy.stripe.com/28E3cx0ryefabN17slebu06" class="btn-lmai">19/06/2026 (Online)</a>
+</div>
 
 <p>If you encounter any issues, email <a href="mailto:hello@lm-ai.nz">hello@lm-ai.nz</a>.</p>
