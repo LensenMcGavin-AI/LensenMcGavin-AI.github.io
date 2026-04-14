@@ -9,11 +9,14 @@ LensenMcGavin AI is a full-service artificial intelligence consultancy developed
 # Our Services
 
 - Strategic AI Consulting
-- AI Scoping & Implementation
+- AI Literacy Training & Lawyer CPD modules
 - Ethical AI & Policy Development Advice
-- Responsible AI
-- AI Policy Assessment
+- Responsible AI & AI Policy Assessment
+- AI Scoping & Implementation
 
 Whether you’re at the beginning of your AI implementation journey or refining existing processes, we are here to help. It is our mission to ensure that AI adoption in Aotearoa is done so in a responsible and measured manner, ensuring maximum benefits while minimising potential harms.
+
+**Interested in upskilling your team or earning CPD credits?** 
+Explore our [Lawyer CPD and Custom Training Modules](/cpd/), which range from absolute fundamentals to in-depth workshops on legal interpretability and prompt engineering. Secure a spot for upcoming public sessions on our [CPD Registration page](/cpd/register/).
 
 If our services sound like they could be of benefit to your organisation please do not hesitate to get in touch either at <hello@lm-ai.nz> or by filling out the form in the contact tab. 

@@ -113,7 +113,7 @@ textarea:focus {
 }
 
 button[type="submit"].btn {
-  background-color: #007bff;
+  background-color: $lmai-green;
   color: #fff;
   border: none;
   padding: 0.75rem 1.5rem;
@@ -124,7 +124,7 @@ button[type="submit"].btn {
 }
 
 button[type="submit"].btn:hover {
-  background-color: #0056b3;
+  background-color: $lmai-brown;
 }
 
 .btn-lmai {
@@ -572,16 +572,26 @@ nav {
   bottom: 0;
   width: 100%;
   height: 89px;
-  background-color: $lightGray;
+  background-color: $lmai-green;
 }
 
 footer {
   padding: 20px 0;
   text-align: center;
+  
+  .svg-icon {
+    filter: brightness(0) invert(1);
+    opacity: 0.8;
+    transition: opacity 0.2s;
+    
+    &:hover {
+      opacity: 1;
+    }
+  }
 }
 
 body:after {
-    background: linear-gradient(to right, #ffffff   0, #2196F3   33%, #E91E63   66%, #000 100%);
+    background: linear-gradient(to right, $lmai-green 0%, $lmai-brown 100%);
     width: 100%;
     height: 5px;
     top: 0;
@@ -591,7 +601,7 @@ body:after {
 }
 
 #bar {
-    background: #000;
+    background: $lmai-green;
     height: 7px;
     background-size: cover;
     background-position: left 60%;
@@ -632,7 +642,7 @@ body:after {
 }
 
 .cd-container a {
-  color: #30434e;
+  color: $lmai-green;
   text-decoration: none;
   font-family: "Open Sans", sans-serif;
 }
@@ -772,9 +782,9 @@ Modules - reusable parts of our design
 }
 
 .text-link {
-    color: #000;
+    color: $lmai-green;
     text-decoration: none;
-    border-bottom: 1px dotted #000;
+    border-bottom: 1px dotted $lmai-brown;
 }
 
 //carbon ads
