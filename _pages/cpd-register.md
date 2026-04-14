@@ -12,7 +12,7 @@ We regularly offer scheduled CPD sessions for our most popular modules. You can 
 Alternatively, you can register for multiple sessions using the following link:
 
 <div style="margin: 1.5rem 0;">
-  <a href="https://buy.stripe.com/6oU6oJ0ry1so5oDfYRebu04" class="btn-lmai">Register for Multiple Sessions (Discounted)</a>
+  <a href="https://buy.stripe.com/6oU6oJ0ry1so5oDfYRebu04" class="btn-lmai">Register for Multiple Sessions</a>
 </div>
 
 If you're interested in a custom programme for your firm, please [submit a CPD Expression of Interest](/cpd-eoi) or email <a href="mailto:hello@lm-ai.nz">hello@lm-ai.nz</a>.
