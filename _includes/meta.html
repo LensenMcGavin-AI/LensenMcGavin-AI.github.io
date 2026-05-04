@@ -26,3 +26,25 @@
 <meta property="og:image" content="{{ site.url }}{{ site.avatar }}"/>
 <meta property="twitter:image" content="{{ site.url }}{{ site.avatar }}"/>
 {% endif %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "{% if page.url == '/' %}Organization{% else %}WebPage{% endif %}",
+  "name": "{% if page.title %}{{ page.title | escape }}{% else %}{{ site.name | escape }}{% endif %}",
+  "description": "{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | escape }}{% elsif page.description %}{{ page.description | escape }}{% else %}{{ site.description | escape }}{% endif %}",
+  "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}"{% if page.url == '/' %},
+  "logo": "{{ site.url }}{{ site.baseurl }}{{ site.avatar }}",
+  "sameAs": [
+    "{{ site.footer-links.linkedin }}"
+  ]{% else %},
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ site.name | escape }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ site.url }}{{ site.baseurl }}{{ site.avatar }}"
+    }
+  }{% endif %}
+}
+</script>
