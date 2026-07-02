@@ -2,15 +2,14 @@
 <html lang="en">
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
-    {% seo title=false %}
     {% include meta.html %}
 
     <style>{% capture inline_css %}{% include inline_style.scss %}{% endcapture %}{{ inline_css | scssify }}</style>
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.baseurl }}/feed.xml" />
-    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
 
     <meta name="theme-color" content="#000000">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/images/favicon-16x16.png">
     
     {% include analytics_head.html %}
   </head>
