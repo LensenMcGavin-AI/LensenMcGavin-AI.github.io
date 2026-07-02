@@ -10,7 +10,7 @@ See below for Chris McGavin’s recent appearances in the media.
 
 1. "After Huffer, what could AI regulation in NZ’s marketing industry look like?". In BusinessDesk, 30<sup>th</sup> June 2026. [link](https://businessdesk.co.nz/article/technology/after-huffer-what-could-ai-regulation-in-nzs-marketing-industry-look-like)
 1. "How Microsoft became the Government’s default AI tool – without a competitive tender". In BusinessDesk, 4<sup>th</sup> June 2026. [link](https://businessdesk.co.nz/article/investigations/how-microsoft-became-the-governments-default-ai-tool-without-a-competitive-tender)
-1. "NZ’s approach to AI continues to favour slop over substance". On RNZ, 14<sup>th</sup> May 2026. [link](https://www.rnz.co.nz/news/politics/595187/nz-s-approach-to-ai-continues-to-favour-slop-over-substance)
+1. "NZ’s approach to AI continues to favour slop over substance". On RNZ, 14<sup>th</sup> May 2026. [link](https://www.rnz.co.nz/news/politics/595187/nz-s-approach-to-ai-continues-to-favour-slop-over-substance) ([original with references](/nz-approach-to-ai-continues-to-favour-slop-over-substance/))
 1. "AI experts sign open letter to government calling for urgent regulations". On Herald NOW, 31<sup>st</sup> August 2025. [link](https://www.youtube.com/watch?v=cofbHNKm5j8)
 1. "NZ can’t afford to be careless with its AI strategy". In Newsroom, 13<sup>th</sup> July 2025. [link](https://newsroom.co.nz/2025/07/13/nz-cant-afford-to-be-careless-with-its-ai-strategy/)
 1. "Not clear the AI race has begun". In NBR, 2<sup>nd</sup> February 2025. [link](https://www.nbr.co.nz/guest-analysis/not-clear-the-ai-race-has-begun/)
