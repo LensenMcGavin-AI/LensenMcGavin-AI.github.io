@@ -2,6 +2,7 @@
 layout: post
 title: "New Zealand's approach to AI continues to favour slop over substance"
 date: 2026-05-14
+description: "Nearly a year on from the Government's AI Strategy, New Zealand still has no AI regulation. Our op-ed on why that must change this election year."
 published_in: RNZ
 published_url: https://www.rnz.co.nz/news/politics/595187/nz-s-approach-to-ai-continues-to-favour-slop-over-substance
 ---

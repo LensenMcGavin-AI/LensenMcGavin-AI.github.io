@@ -2,6 +2,7 @@
 layout: page
 title: Lawyer CPD
 permalink: /cpd/
+description: "CPD-eligible AI training for lawyers, from fundamentals to generative AI and legal interpretability, plus custom AI literacy modules for organisations."
 ---
 
 AI is reshaping legal practice. Clients, partners, and vendors are pushing adoption, courts are starting to see AI-influenced submissions, and mistakes (hallucinated citations, reasoning errors) are already leading to reprimands. Rapid, confident upskilling is now a competitive necessity.
@@ -24,7 +25,7 @@ Pre-reading/video micro‑materials + interactive session (discussion, case stud
 - Custom firm-specific programmes available
 
 ## Schedule
-Courses running in H1 2026. Tell us which modules you want and preferred location (Wellington, Auckland, or online).
+Courses running in the second half of 2026. Tell us which modules you want and preferred location (Wellington, Auckland, or online).
 
 ## Our Team
 Dr Andrew Lensen (explainable & ethical AI), Chris McGavin LLM (AI regulation & policy), and Dr Andrew Chen (technology ethics & assurance). See About page for full bios.

@@ -37,10 +37,8 @@ footer-links:
   mastodon: # <your-mastodon-instance>/@<your-user-name> eg. fosstodon.org/@username
 
 
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-#google_analytics:
 
-# For newer "GA4" analytics, use the following instead of the "UA" entry above
+# Google Analytics (GA4) measurement ID
 google_analytics_ga4: G-3Q2N92JC5R
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)

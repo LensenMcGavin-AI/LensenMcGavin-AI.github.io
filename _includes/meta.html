@@ -2,12 +2,12 @@
 <meta http-equiv='X-UA-Compatible' content='IE=edge'>
 <meta name='viewport' content='width=device-width, initial-scale=1.0'>
 
-{% if page.excerpt %}
-<meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}">
-<meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}" />
-{% elsif page.description %}
+{% if page.description %}
 <meta name="description" content="{{ page.description }}">
 <meta property="og:description" content="{{ page.description }}" />
+{% elsif page.excerpt %}
+<meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}">
+<meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}" />
 {% else %}
 <meta name="description" content="{{ site.description }}">
 <meta property="og:description" content="{{ site.description }}" />

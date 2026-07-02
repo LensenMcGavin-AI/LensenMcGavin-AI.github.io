@@ -2,6 +2,7 @@
 layout: page
 title: In The Media
 permalink: /media/
+description: "Media appearances and commentary from LensenMcGavin AI, including op-eds on AI policy and coverage of our advocacy for AI regulation in New Zealand."
 ---
 
 For a comprehensive list of Dr Andrew Lensen's latest media engagements, please visit **[andrewlensen.com/media](https://andrewlensen.com/media/)**.

@@ -2,6 +2,7 @@
 layout: page
 title: Who We Are
 permalink: /about/
+description: "Meet the team behind LensenMcGavin AI — Dr Andrew Lensen and Chris McGavin, experienced AI researchers and consultants helping New Zealand organisations adopt AI responsibly."
 ---
 
 Below you can learn more about us. Click **Read more** to see our full bios.
